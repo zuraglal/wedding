@@ -207,6 +207,9 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-travel a {
   color: #000;
 }
+.fh5co-travel ul {
+  padding: 0;
+}
 .fh5co-travel ul li {
   font-size: 16px;
 }
